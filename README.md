@@ -1,8 +1,10 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iseruuuuu)](https://github.com/iseruuuuu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&layout=compact)](https://github.com/iseruuuuu/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iseruuuuu)](https://github.com/iseruuuuu/github-readme-stats)
 
 
-![](https://raw.githubusercontent.com/iseruuuuu/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)
+
+
+
 
 
 
@@ -30,8 +32,11 @@
     
 </p>
 
-  
+ <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
   <!--
     https://github.com/anuraghazra/github-readme-stats
-    
+    ![](https://raw.githubusercontent.com/iseruuuuu/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)
+      ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_bright/0-profile-details.svg)
+
     -->
