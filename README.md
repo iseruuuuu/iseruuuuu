@@ -9,7 +9,7 @@
 
 
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=iseruuuuu)](https://github.com/iseruuuuu/github-profile-trophy)
 
 
 
@@ -17,7 +17,7 @@
 
 <p align="left"> 
   <a href="https://github.com/iseruuuuu/iseruuuuu/">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
+    <img src="https://komarev.com/ghpvc/?username=iseruuuuu" alt="yutkat" />
   </a>
 
   <a href="http://twitter.com/isekiryu">
