@@ -7,8 +7,7 @@
 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&layout=compact)](https://github.com/iseruuuuu/github-readme-stats).   
+ 
 
 
 
@@ -50,4 +49,5 @@
     ![](https://raw.githubusercontent.com/iseruuuuu/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)
       ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_bright/0-profile-details.svg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&layout=compact)](https://github.com/iseruuuuu/github-readme-stats).  
     -->
