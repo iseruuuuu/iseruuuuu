@@ -1,5 +1,12 @@
+<a href="https://github.com/iseruuuuu/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/iseruuuuu/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu" />
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iseruuuuu)](https://github.com/iseruuuuu/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu)](https://github.com/iseruuuuu/github-readme-stats)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&layout=compact)](https://github.com/iseruuuuu/github-readme-stats).   
 
@@ -7,6 +14,8 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iseruuuuu)](https://github.com/iseruuuuu/github-profile-trophy)
+
+
 
 
 
