@@ -1,3 +1,8 @@
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=exchange_contact_app)](https://github.com/iseruuuuu/exchange_contact_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=money_calc_app)](https://github.com/iseruuuuu/money_calc_app)
+
+
 <a href="https://github.com/iseruuuuu/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu&count_private=true&show_icons=true" />
 </a>
