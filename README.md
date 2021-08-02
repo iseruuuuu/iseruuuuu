@@ -2,9 +2,27 @@
 
 
 - 🌱 I’m currently learning **Flutter**
-- 💬 Ask me about **HTML・CSS・Flutter**
+- 💬 Ask me about **Flutter**
 - 📫 How to reach me: [@isekiryu](https://twitter.com/isekiryu) on Twitter
 
+
+
+
+```yaml
+
+name: Ryutaro Iseki
+
+located_in: Kanagawaken JAPAN
+
+from: Kanagawa (JAPAN)
+
+education: ["Rissho University" "School of Psychology"]
+
+job: Student (3rd)
+
+currently_learning: ["Flutter"]
+
+```
 
 ##  アプリ一覧
 
