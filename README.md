@@ -1,6 +1,9 @@
-## HELLO
+<h2 align="center">👋 Hello! I'm Ryutaro Iseki.</h2>
 
 
+- 🌱 I’m currently learning **Flutter**
+- 💬 Ask me about **HTML・CSS・Flutter**
+- 📫 How to reach me: [@isekiryu](https://twitter.com/isekiryu) on Twitter
 
 
 ##  アプリ一覧
@@ -79,4 +82,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu" />
 </a>
   
+  <p align="center">
+  <a href="https://blog.athulcyriac.xyz">Blog</a> •
+  <a href="https://twitter.com/athulcajay">Twitter</a>
+</p>
   -->
