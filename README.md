@@ -30,7 +30,9 @@ currently_learning: ["Flutter"]
 ## My Apple Store 
 
 <a href="https://apps.apple.com/jp/app/exme/id1579227283"><img src="https://user-images.githubusercontent.com/67954894/127949523-4f2c85b4-6bff-432f-8b0d-bce72979df44.png" width = 18%></a>  <a href="https://apps.apple.com/jp/app/%E7%B5%A6%E6%96%99%E6%98%8E%E7%B4%B0/id1577905641"><img src="https://user-images.githubusercontent.com/67954894/127949526-18973b23-0845-4faf-91c4-8dc59bb54bd1.png" width = 18%></a>  <a href="https://apps.apple.com/jp/app/4-4%E3%81%BE%E3%82%8B%E3%81%B0%E3%81%A4/id1574027882"><img src="https://user-images.githubusercontent.com/67954894/127949529-2173b5af-5f66-4428-be78-f65aa0f9a39f.png" width = 18%></a>  <a href="https://apps.apple.com/jp/app/%E3%83%95%E3%83%AA%E3%83%83%E3%82%AF%E9%9B%BB%E5%8D%93/id1565719589"><img src="https://user-images.githubusercontent.com/67954894/127949535-2578b931-b853-42ff-95e9-7f470d1fbcf3.png" width = 18%></a>  <a href="https://apps.apple.com/jp/app/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%83%95%E3%83%AA%E3%83%83%E3%82%AF%E9%9B%BB%E5%8D%93/id1568852472"><img src="https://user-images.githubusercontent.com/67954894/127949545-dff77094-3c2f-4e74-a424-3dba0c81abce.png" width = 18%></a>
-<a href = "https://apps.apple.com/jp/developer/ryutaro-iseki/id1544199624#see-all/i-phone-apps"><h3>other app</h3></a>
+
+
+<a href = "https://apps.apple.com/jp/developer/ryutaro-iseki/id1544199624#see-all/i-phone-apps"><h3>Other app....</h3></a>
 
 
 
