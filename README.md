@@ -1,11 +1,9 @@
-<h2 align="center">👋 Hello! I'm Ryutaro Iseki.</h2>
+<h1 align="center">👋 Hello! I'm Ryutaro Iseki.</h1>
 
 
 - 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **Flutter**
 - 📫 How to reach me: [@isekiryu](https://twitter.com/isekiryu) on Twitter
-
-
 
 
 ```yaml
@@ -24,12 +22,23 @@ currently_learning: ["Flutter"]
 
 ```
 
-##  アプリ一覧
+##  My favorite git repository
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=exchange_contact_app)](https://github.com/iseruuuuu/exchange_contact_app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=money_calc_app)](https://github.com/iseruuuuu/money_calc_app)
 
-## ステータス
+## My Apple Store 
+
+<a href="sample2.html"><img src="https://user-images.githubusercontent.com/67954894/127949523-4f2c85b4-6bff-432f-8b0d-bce72979df44.png" width = 18%></a>  <a href="sample2.html"><img src="https://user-images.githubusercontent.com/67954894/127949526-18973b23-0845-4faf-91c4-8dc59bb54bd1.png" width = 18%></a>  <a href="sample2.html"><img src="https://user-images.githubusercontent.com/67954894/127949529-2173b5af-5f66-4428-be78-f65aa0f9a39f.png" width = 18%></a>  <a href="sample2.html"><img src="https://user-images.githubusercontent.com/67954894/127949535-2578b931-b853-42ff-95e9-7f470d1fbcf3.png" width = 18%></a>  <a href="https://apps.apple.com/jp/app/exme/id1579227283"><img src="https://user-images.githubusercontent.com/67954894/127949545-dff77094-3c2f-4e74-a424-3dba0c81abce.png" width = 18%></a>
+<h3>other app</h3>
+
+
+
+
+
+
+
+##  My Status
 
 <a href="https://github.com/iseruuuuu/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu&count_private=true&show_icons=true"/>
