@@ -85,11 +85,17 @@ currently_learning: ["Flutter"]
   
   
   
-  
+ 
+
   
   
   
   <!--
+    
+     <img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/iseruuuuu/iseruuuuu/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+    
+    
     https://github.com/anuraghazra/github-readme-stats
     ![](https://raw.githubusercontent.com/iseruuuuu/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)
       ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_bright/0-profile-details.svg)
