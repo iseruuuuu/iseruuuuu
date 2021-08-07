@@ -1,9 +1,14 @@
+<img src="https://user-images.githubusercontent.com/67954894/128601742-1faff007-af1e-4d07-86f0-26d3a41980d9.gif" width = 90%> 
+
+
 <h1 align="center">👋 Hello! I'm Ryutaro Iseki.</h1>
 
 
 - 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **Flutter**
-- 📫 How to reach me: [@isekiryu](https://twitter.com/isekiryu) on Twitter
+- 📫 How to reach me: [@isekiryu](https://twitter.com/isekiryu) on Twitter 
+   
+  
 
 
 ```yaml
