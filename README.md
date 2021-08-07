@@ -38,7 +38,7 @@ currently_learning: ["Flutter"]
 <a href="https://play.google.com/store/apps/details?id=com.exchange_contact_app"><img src="https://user-images.githubusercontent.com/67954894/127949523-4f2c85b4-6bff-432f-8b0d-bce72979df44.png" width = 18%></a>  <a href="https://play.google.com/store/apps/details?id=com.money_calc_app"><img src="https://user-images.githubusercontent.com/67954894/127949526-18973b23-0845-4faf-91c4-8dc59bb54bd1.png" width = 18%></a>  <a href="https://play.google.com/store/apps/details?id=com.ryutaro.marubatu_app"><img src="https://user-images.githubusercontent.com/67954894/127949529-2173b5af-5f66-4428-be78-f65aa0f9a39f.png" width = 18%></a> 
 
 
-<a href = "https://apps.apple.com/jp/developer/ryutaro-iseki/id1544199624#see-all/i-phone-apps"><h3>Other app....</h3></a>
+<a href = "https://play.google.com/store/apps/developer?id=ryutaro+iseki"><h3>Other app....</h3></a>
 
 
 
