@@ -44,6 +44,8 @@ currently_learning: ["Flutter"]
 
 ##  My Status
 
+ ![Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iseruuuuu&theme=xcode)
+
 <a href="https://github.com/iseruuuuu/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu&count_private=true&show_icons=true"/>
 </a>
