@@ -1,4 +1,6 @@
 
+<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
 
 <img src="https://user-images.githubusercontent.com/67954894/128601742-1faff007-af1e-4d07-86f0-26d3a41980d9.gif" width = 100%> 
