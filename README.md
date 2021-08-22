@@ -1,5 +1,13 @@
-
+<!-- 
 <img src="https://user-images.githubusercontent.com/67954894/128601742-1faff007-af1e-4d07-86f0-26d3a41980d9.gif" width = 100%> 
+//画質悪い
+<img src="https://user-images.githubusercontent.com/67954894/130356158-dba1356f-c8b7-49f7-a18a-4f3b29e93995.gif" width = 100%> 
+-->
+
+<img src="https://user-images.githubusercontent.com/67954894/130356198-7d11df70-f115-4dac-b15e-9f69eac5d529.gif" width = 100%> 
+
+
+
 
 
 <h1 align="center">👋 Hello! I'm Ryutaro Iseki.</h1>
