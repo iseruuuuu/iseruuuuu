@@ -3,13 +3,18 @@
 //画質悪い
 <img src="https://user-images.githubusercontent.com/67954894/130356158-dba1356f-c8b7-49f7-a18a-4f3b29e93995.gif" width = 100%> 
 
+//ゴンとキルア
 <img src="https://user-images.githubusercontent.com/67954894/130356198-7d11df70-f115-4dac-b15e-9f69eac5d529.gif" width = 100%> 
+
+//キルア
+<img src="https://user-images.githubusercontent.com/67954894/156856867-12a55704-9def-450c-900a-8b791ba072be.gif" width=100%>
 -->
 
+<img src ="https://user-images.githubusercontent.com/67954894/158051578-693ddf91-7b86-4c87-93b0-67fe54410690.gif" width=100%>
 
 
 
-<img src="https://user-images.githubusercontent.com/67954894/156856867-12a55704-9def-450c-900a-8b791ba072be.gif" width=100%>
+
 
 
 
