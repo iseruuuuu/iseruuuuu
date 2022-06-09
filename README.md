@@ -54,6 +54,8 @@ currently_learning: ["Flutter"]
 
 [![wantedly](https://user-images.githubusercontent.com/67954894/172750374-23c2f293-31a8-4de0-9c9a-703fa2d53a1b.png)](https://www.wantedly.com/id/ryuutarou_iseki)
 
+[![twitter](https://user-images.githubusercontent.com/67954894/172750562-537976ca-a7f3-4e6b-be9c-935e73266165.png)](https://twitter.com/isekiryu)
+
 
 
 
