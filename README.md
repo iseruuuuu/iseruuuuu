@@ -56,6 +56,18 @@ currently_learning: ["Flutter"]
 
 [![twitter](https://user-images.githubusercontent.com/67954894/172750562-537976ca-a7f3-4e6b-be9c-935e73266165.png)](https://twitter.com/isekiryu)
 
+[![note](https://user-images.githubusercontent.com/67954894/172750685-c7bf3bcf-60e9-4dee-98a7-261c26adf447.png)]([https://twitter.com/isekiryu](https://note.com/iseryu))
+
+
+
+
+
+
+
+
+
+
+
 
 
 
