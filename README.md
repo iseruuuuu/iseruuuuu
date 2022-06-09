@@ -50,9 +50,11 @@ currently_learning: ["Flutter"]
 
 ## My Contact Address
 
-[![](https://user-images.githubusercontent.com/67954894/172749852-8bef6b6b-24b8-4af4-8382-060f7c3b6f13.png)](https://www.linkedin.com/in/%E7%AB%9C%E5%A4%AA%E9%83%8E-%E4%BA%95%E9%96%A2-b350ab223/)
+[![linkedin](https://user-images.githubusercontent.com/67954894/172749852-8bef6b6b-24b8-4af4-8382-060f7c3b6f13.png)](https://www.linkedin.com/in/%E7%AB%9C%E5%A4%AA%E9%83%8E-%E4%BA%95%E9%96%A2-b350ab223/)
 
-[![](https://user-images.githubusercontent.com/67954894/172749852-8bef6b6b-24b8-4af4-8382-060f7c3b6f13.png)](https://www.linkedin.com/in/%E7%AB%9C%E5%A4%AA%E9%83%8E-%E4%BA%95%E9%96%A2-b350ab223/)
+[![wantedly](https://user-images.githubusercontent.com/67954894/172750374-23c2f293-31a8-4de0-9c9a-703fa2d53a1b.png)](https://www.wantedly.com/id/ryuutarou_iseki)
+
+
 
 
 
