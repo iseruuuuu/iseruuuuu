@@ -50,10 +50,12 @@ currently_learning: ["Flutter"]
 
 ## My Contact Address
 
+[![](https://user-images.githubusercontent.com/67954894/172749852-8bef6b6b-24b8-4af4-8382-060f7c3b6f13.png)](https://www.linkedin.com/in/%E7%AB%9C%E5%A4%AA%E9%83%8E-%E4%BA%95%E9%96%A2-b350ab223/)
 
-![ダウンロード]()
+[![](https://user-images.githubusercontent.com/67954894/172749852-8bef6b6b-24b8-4af4-8382-060f7c3b6f13.png)](https://www.linkedin.com/in/%E7%AB%9C%E5%A4%AA%E9%83%8E-%E4%BA%95%E9%96%A2-b350ab223/)
 
-[![alt属性](https://user-images.githubusercontent.com/67954894/172749852-8bef6b6b-24b8-4af4-8382-060f7c3b6f13.png)](https://www.linkedin.com/in/%E7%AB%9C%E5%A4%AA%E9%83%8E-%E4%BA%95%E9%96%A2-b350ab223/)
+
+
 
 
 ##  My favorite git repository
