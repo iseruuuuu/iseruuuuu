@@ -60,16 +60,7 @@ currently_learning: ["Flutter"]
 
 [![facebool](https://user-images.githubusercontent.com/67954894/172750866-4ddb0539-f6f5-4ff7-852d-6c0e5b696465.png)]([https://twitter.com/isekiryu](https://www.facebook.com/iseryuu))
 
-
-
-
-
-
-
-
-
-
-
+[![youtrst](https://user-images.githubusercontent.com/67954894/172751095-32ec398d-03a4-427a-8328-4bb647ad4198.png)]([https://twitter.com/isekiryu](https://youtrust.jp/users/iseki))
 
 
 
