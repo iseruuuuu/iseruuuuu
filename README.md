@@ -50,6 +50,29 @@ currently_learning: ["Flutter"]
 
 ## My Contact Address(画像のサイズを調整しないと。。)
 
+
+
+<p align="left"> 
+  <a href="https://github.com/iseruuuuu/iseruuuuu/">
+    <img src="https://komarev.com/ghpvc/?username=iseruuuuu" alt="yutkat" />
+  </a>
+
+  <a href="http://twitter.com/isekiryu">
+    <img height="20" src="https://img.shields.io/twitter/follow/isekiryu?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  
+  <a href="https://github.com/iseruuuuu">
+    <img height="20" src="https://img.shields.io/github/followers/iseruuuuu?label=follow&logo=github&style=flat" />
+  </a>
+  
+  <a href="http://qiita.com/iseruuuuu">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/iseruuuuu/posts.svg" />
+  </a>
+  <//qiita.com/iseruuuuu">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/iseruuuuu/contributions.svg" />
+  </a>   
+</p>
+
 [![linkedin](https://user-images.githubusercontent.com/67954894/172749852-8bef6b6b-24b8-4af4-8382-060f7c3b6f13.png)](https://www.linkedin.com/in/%E7%AB%9C%E5%A4%AA%E9%83%8E-%E4%BA%95%E9%96%A2-b350ab223/)
 
 [![wantedly](https://user-images.githubusercontent.com/67954894/172750374-23c2f293-31a8-4de0-9c9a-703fa2d53a1b.png)](https://www.wantedly.com/id/ryuutarou_iseki)
@@ -107,27 +130,6 @@ currently_learning: ["Flutter"]
 
 
 
-
-<p align="left"> 
-  <a href="https://github.com/iseruuuuu/iseruuuuu/">
-    <img src="https://komarev.com/ghpvc/?username=iseruuuuu" alt="yutkat" />
-  </a>
-
-  <a href="http://twitter.com/isekiryu">
-    <img height="20" src="https://img.shields.io/twitter/follow/isekiryu?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  
-  <a href="https://github.com/iseruuuuu">
-    <img height="20" src="https://img.shields.io/github/followers/iseruuuuu?label=follow&logo=github&style=flat" />
-  </a>
-  
-  <a href="http://qiita.com/iseruuuuu">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/iseruuuuu/posts.svg" />
-  </a>
-  <//qiita.com/iseruuuuu">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/iseruuuuu/contributions.svg" />
-  </a>   
-</p>
 
   
   
