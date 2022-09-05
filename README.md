@@ -19,10 +19,11 @@
 <img src ="https://user-images.githubusercontent.com/67954894/167231675-881e68ac-666a-4d1a-a137-c02a58017523.gif" width=100%>
 
 <img src ="https://user-images.githubusercontent.com/67954894/169719588-134412bd-d9bb-412d-9d5b-60874d305daa.gif" width=100%>
--->
 
 <img src ="https://user-images.githubusercontent.com/67954894/172028451-7795d536-d148-4d08-911e-ac0d8a9671bb.gif" width=100%>
+-->
 
+<img src ="https://64.media.tumblr.com/23bb55993bdcbe16921147089ce87732/7c515511f9290396-b1/s500x750/3139a80dceccc105d2b576360b56f64455bf2ae8.gifv" width=100%>
 
 
 
@@ -48,42 +49,10 @@ currently_learning: ["Flutter"]
 
 ```
 
-## My Contact Address(画像のサイズを調整しないと。。)
+## [My Contact Address](https://4me.bio/isekiryu)
 
 
 
-<p align="left"> 
-  <a href="https://github.com/iseruuuuu/iseruuuuu/">
-    <img src="https://komarev.com/ghpvc/?username=iseruuuuu" alt="yutkat" />
-  </a>
-
-  <a href="http://twitter.com/isekiryu">
-    <img height="20" src="https://img.shields.io/twitter/follow/isekiryu?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  
-  <a href="https://github.com/iseruuuuu">
-    <img height="20" src="https://img.shields.io/github/followers/iseruuuuu?label=follow&logo=github&style=flat" />
-  </a>
-  
-  <a href="http://qiita.com/iseruuuuu">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/iseruuuuu/posts.svg" />
-  </a>
-  <//qiita.com/iseruuuuu">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/iseruuuuu/contributions.svg" />
-  </a>   
-</p>
-
-[![linkedin](https://user-images.githubusercontent.com/67954894/172749852-8bef6b6b-24b8-4af4-8382-060f7c3b6f13.png)](https://www.linkedin.com/in/%E7%AB%9C%E5%A4%AA%E9%83%8E-%E4%BA%95%E9%96%A2-b350ab223/)
-
-[![wantedly](https://user-images.githubusercontent.com/67954894/172750374-23c2f293-31a8-4de0-9c9a-703fa2d53a1b.png)](https://www.wantedly.com/id/ryuutarou_iseki)
-
-[![twitter](https://user-images.githubusercontent.com/67954894/172750562-537976ca-a7f3-4e6b-be9c-935e73266165.png)](https://twitter.com/isekiryu)
-
-[![note](https://user-images.githubusercontent.com/67954894/172750685-c7bf3bcf-60e9-4dee-98a7-261c26adf447.png)]([https://twitter.com/isekiryu](https://note.com/iseryu))
-
-[![facebool](https://user-images.githubusercontent.com/67954894/172750866-4ddb0539-f6f5-4ff7-852d-6c0e5b696465.png)]([https://twitter.com/isekiryu](https://www.facebook.com/iseryuu))
-
-[![youtrst](https://user-images.githubusercontent.com/67954894/172751095-32ec398d-03a4-427a-8328-4bb647ad4198.png)]([https://twitter.com/isekiryu](https://youtrust.jp/users/iseki))
 
 
 
