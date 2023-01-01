@@ -84,7 +84,7 @@ currently_learning: ["Flutter"]
 ##  My Status
 
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iseruuuuu)](https://github.com/iseruuuuu/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iseruuuuu&theme=react)](https://github.com/iseruuuuu/github-readme-activity-graph)
  
  
 
