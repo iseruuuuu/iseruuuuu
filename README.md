@@ -83,10 +83,8 @@ currently_learning: ["Flutter"]
 
 ##  My Status
 
-
-これがみれてあない
- ![Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iseruuuuu&theme=xcode)
  
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iseruuuuu)](https://github.com/iseruuuuu/github-readme-activity-graph)
  
  
 
