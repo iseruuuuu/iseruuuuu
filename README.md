@@ -45,7 +45,7 @@ from: Kanagawa (JAPAN)
 
 education: ["Rissho University" "School of Psychology"]
 
-job: Student (3rd)
+job: Student(4th)
 
 currently_learning: ["Flutter"]
 
@@ -83,7 +83,12 @@ currently_learning: ["Flutter"]
 
 ##  My Status
 
+
+これがみれてあない
  ![Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iseruuuuu&theme=xcode)
+ 
+ 
+ 
 
 <a href="https://github.com/iseruuuuu/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu&count_private=true&show_icons=true"/>
