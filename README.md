@@ -61,12 +61,7 @@ currently_learning: ["Flutter"]
  
  
 
-<a href="https://github.com/iseruuuuu/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu&count_private=true&show_icons=true"/>
-</a>
-<a href="https://github.com/iseruuuuu/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&layout=compact"/>
-</a>
+
 
   
   
