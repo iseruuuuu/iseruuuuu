@@ -35,6 +35,13 @@
 
 <h1 align="center">👋 Hello! I'm Ryutaro Iseki.</h1>
 
+```mermaid
+  graph TD;
+      1_Ryutaro_Iseki-->22_Years_Old;
+      2_2019-2023-->Rissho_Univer_City;
+      3_2023-->Yumemi.inc;
+```
+
 
 ```yaml
 
