@@ -1,44 +1,9 @@
-<!-- 
-<img src="https://user-images.githubusercontent.com/67954894/128601742-1faff007-af1e-4d07-86f0-26d3a41980d9.gif" width = 100%> 
-//画質悪い
-<img src="https://user-images.githubusercontent.com/67954894/130356158-dba1356f-c8b7-49f7-a18a-4f3b29e93995.gif" width = 100%> 
-
-//ゴンとキルア
-<img src="https://user-images.githubusercontent.com/67954894/130356198-7d11df70-f115-4dac-b15e-9f69eac5d529.gif" width = 100%> 
-
-//キルア
-<img src="https://user-images.githubusercontent.com/67954894/156856867-12a55704-9def-450c-900a-8b791ba072be.gif" width=100%>
-<img src="https://user-images.githubusercontent.com/67954894/156856867-12a55704-9def-450c-900a-8b791ba072be.gif" width=100%>
-
-//潔
-<img src ="https://user-images.githubusercontent.com/67954894/158051578-693ddf91-7b86-4c87-93b0-67fe54410690.gif" width=100%>
-
-なつ
-<img src ="https://user-images.githubusercontent.com/67954894/167231620-cc8e9505-c02f-4537-a77c-215e18cce2ce.gif" width=100%>
-
-なつ
-<img src ="https://user-images.githubusercontent.com/67954894/167231675-881e68ac-666a-4d1a-a137-c02a58017523.gif" width=100%>
-
-<img src ="https://user-images.githubusercontent.com/67954894/169719588-134412bd-d9bb-412d-9d5b-60874d305daa.gif" width=100%>
-
-<img src ="https://user-images.githubusercontent.com/67954894/172028451-7795d536-d148-4d08-911e-ac0d8a9671bb.gif" width=100%>
-
-<img src ="https://64.media.tumblr.com/23bb55993bdcbe16921147089ce87732/7c515511f9290396-b1/s500x750/3139a80dceccc105d2b576360b56f64455bf2ae8.gifv" width=100%>
-
-<img src="https://user-images.githubusercontent.com/67954894/130356198-7d11df70-f115-4dac-b15e-9f69eac5d529.gif" width = 100%> 
-
--->
-
 <img src="https://user-images.githubusercontent.com/67954894/224466450-9dd64159-a060-4aeb-9ca5-ea25985c48d8.gif" width = 100%> 
-
-
-
-
-
 
 
 <h1 align="center">👋 Hello! I'm Ryutaro Iseki.</h1>
 
+```
 
 name: Ryutaro Iseki
 
@@ -46,10 +11,13 @@ located_in: Kanagawaken JAPAN
 
 from: Kanagawa (JAPAN)
 
+education: ["Rissho University" "School of Psychology"]
+
+job: Student(4th)
+
 currently_learning: ["Flutter"]
 
-job: Flutter Engineer（Yumemi.inc）
-
+job: Flutter developer(Yumemi.inc)
 
 ```
 
