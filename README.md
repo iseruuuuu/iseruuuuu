@@ -32,10 +32,19 @@ currently_learning: ["Flutter"]
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu" />
+
 </p>
 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&hide_progress=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&hide_progress=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 
   
 
