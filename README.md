@@ -35,6 +35,8 @@ currently_learning: ["Flutter"]
 </p>
 
   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&hide_progress=true)
+
   
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iseruuuuu&row=1)](https://github.com/iseruuuuu/github-profile-trophy)
