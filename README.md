@@ -51,7 +51,13 @@ currently_learning: ["Flutter"]
  [![Followers](https://badgen.org/img/qiita/isekiryu/followers?style=for-the-badge)](https://qiita.com/isekiryu)
  [![Articles](https://badgen.org/img/qiita/isekiryu/articles?style=for-the-badge)](https://qiita.com/isekiryu)
   
-  
+
+  ## Zenn
+  [![Likes](https://badgen.org/img/zenn/iseki/likes?style=for-the-badge)](https://zenn.dev/iseki)
+  [![Followers](https://badgen.org/img/zenn/iseki/followers?style=for-the-badge)](https://zenn.dev/iseki)
+  [![Articles](https://badgen.org/img/zenn/iseki/articles?style=for-the-badge)](https://zenn.dev/iseki)
+  [![Books](https://badgen.org/img/zenn/iseki/books?style=for-the-badge)](https://zenn.dev/iseki?tab=books)
+  [![Scraps](https://badgen.org/img/zenn/iseki/scraps?style=for-the-badge)](https://zenn.dev/iseki?tab=scraps)
   
   
   
