@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/67954894/224466450-9dd64159-a060-4aeb-9ca5-ea25985c48d8.gif" width = 100%> 
-
+![IMG_0165](https://github.com/iseruuuuu/iseruuuuu/assets/67954894/75617289-6ace-4a19-a719-3ea6849ad7bc)
 
 <h1 align="center">👋 Hello! I'm Ryutaro Iseki.</h1>
 
