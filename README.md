@@ -78,33 +78,10 @@ currently_learning: ["Flutter"]
   
  
 
-  
-  
-  
-  <!--
-     
-     - 🌱 I’m currently learning **Flutter**
-- 💬 Ask me about **Flutter**
-- 📫 How to reach me: [@isekiryu](https://twitter.com/isekiryu) on Twitter 
-    
-     <img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
-Example: <img src="https://github.com/iseruuuuu/iseruuuuu/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
-    
-    
-    https://github.com/anuraghazra/github-readme-stats
-    ![](https://raw.githubusercontent.com/iseruuuuu/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)
-      ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_bright/0-profile-details.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&layout=compact)](https://github.com/iseruuuuu/github-readme-stats).  
+
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Iseryu)](https://github.com/anuraghazra/github-readme-stats)
   
-  <a href="https://github.com/iseruuuuu/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu" />
-</a>
   
-  <p align="center">
-  <a href="https://blog.athulcyriac.xyz">Blog</a> •
-  <a href="https://twitter.com/athulcajay">Twitter</a>
-</p>
-  -->
 
   
