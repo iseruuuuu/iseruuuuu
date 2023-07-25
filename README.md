@@ -62,7 +62,8 @@ currently_learning: ["Flutter"]
   [![Scraps](https://badgen.org/img/zenn/iseki/scraps?style=for-the-badge)](https://zenn.dev/iseki?tab=scraps)
   
   
-  
+  ## Favorite Repository
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=disney_app)](https://github.com/iseruuuuu/disney_app)
   
  
 
