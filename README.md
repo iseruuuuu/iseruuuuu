@@ -40,18 +40,16 @@ currently_learning: ["Flutter"]
 [![trophy](https://github-profile-trophy.vercel.app/?username=iseruuuuu&row=1)](https://github.com/iseruuuuu/github-profile-trophy)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iseruuuuu&theme=dark&hide_border=true&currStreakNum=DD2727)](https://git.io/streak-stats)
-
-
-
-
-  
-  
-  
+ 
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
- 
-  
+
+
+ ## Qiita
+ [![Contributions](https://badgen.org/img/qiita/isekiryu/contributions?style=for-the-badge)](https://qiita.com/isekiryu)
+ [![Followers](https://badgen.org/img/qiita/isekiryu/followers?style=for-the-badge)](https://qiita.com/isekiryu)
+ [![Articles](https://badgen.org/img/qiita/isekiryu/articles?style=for-the-badge)](https://qiita.com/isekiryu)
   
   
   
