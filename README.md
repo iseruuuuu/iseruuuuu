@@ -11,13 +11,12 @@ located_in: Kanagawaken JAPAN
 
 from: Kanagawa (JAPAN)
 
-education: ["Rissho University" "School of Psychology"]
+education: ["Rissho University Graduate School of Psychology, Master's Program in Applied Psychology"]
 
-job: Student(4th)
+job: First-year master's student　and Flutter Developer in YUMEMI Inc
 
 currently_learning: ["Flutter"]
 
-job: Flutter developer(Yumemi.inc)
 
 ```
 
@@ -26,7 +25,7 @@ job: Flutter developer(Yumemi.inc)
 ##  My Status
 
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iseruuuuu&theme=react)](https://github.com/iseruuuuu/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iseruuuuu&theme=github)](https://github.com/iseruuuuu/github-readme-activity-graph)
  
  
 
