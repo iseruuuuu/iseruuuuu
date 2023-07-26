@@ -1,5 +1,3 @@
-![IMG_0165](https://github.com/iseruuuuu/iseruuuuu/assets/67954894/75617289-6ace-4a19-a719-3ea6849ad7bc)
-
 <h1 align="center">👋 Hello! I'm Ryutaro Iseki.</h1>
 
 ```
