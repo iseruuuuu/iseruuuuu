@@ -24,26 +24,8 @@ currently_learning: ["Flutter"]
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iseruuuuu&theme=github)](https://github.com/iseruuuuu/github-readme-activity-graph)
  
- 
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu" />
-
-</p>
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&hide_progress=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseruuuuu&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-
-  
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iseruuuuu&row=1)](https://github.com/iseruuuuu/github-profile-trophy)
 
