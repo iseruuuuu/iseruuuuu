@@ -54,18 +54,7 @@ currently_learning: ["Flutter"]
   
   ## Favorite Repository
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=disney_app)](https://github.com/iseruuuuu/disney_app)
-  
-
- ## wakatime
-[![wakatime](https://wakatime.com/badge/user/bee3ab95-a9d5-43f5-a7a0-916f0077a695/project/19817bce-f68f-4193-9b8f-d36d3748fadd.svg)](https://wakatime.com/badge/user/bee3ab95-a9d5-43f5-a7a0-916f0077a695/project/19817bce-f68f-4193-9b8f-d36d3748fadd)
-[![wakatime](https://wakatime.com/badge/user/bee3ab95-a9d5-43f5-a7a0-916f0077a695/project/d1988216-5ad0-4f47-98b1-55b9ac9eaa8a.svg)](https://wakatime.com/badge/user/bee3ab95-a9d5-43f5-a7a0-916f0077a695/project/d1988216-5ad0-4f47-98b1-55b9ac9eaa8a)
-[![wakatime](https://wakatime.com/badge/user/bee3ab95-a9d5-43f5-a7a0-916f0077a695/project/0e2c82ca-c895-42fd-8cea-b08115390644.svg)](https://wakatime.com/badge/user/bee3ab95-a9d5-43f5-a7a0-916f0077a695/project/0e2c82ca-c895-42fd-8cea-b08115390644)
-[![wakatime](https://wakatime.com/badge/user/bee3ab95-a9d5-43f5-a7a0-916f0077a695/project/4479988e-583b-4275-9bb5-ac6f79369def.svg)](https://wakatime.com/badge/user/bee3ab95-a9d5-43f5-a7a0-916f0077a695/project/4479988e-583b-4275-9bb5-ac6f79369def)
-[![wakatime](https://wakatime.com/badge/user/bee3ab95-a9d5-43f5-a7a0-916f0077a695/project/8021ef75-e3be-4963-bdf7-a49abecfd11d.svg)](https://wakatime.com/badge/user/bee3ab95-a9d5-43f5-a7a0-916f0077a695/project/8021ef75-e3be-4963-bdf7-a49abecfd11d)
-
-
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bee3ab95-a9d5-43f5-a7a0-916f0077a695)](https://github.com/anuraghazra/github-readme-stats)
-  
-  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=food_gram_app)](https://github.com/iseruuuuu/food_gram_app)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=supabase_hackthon_app)](https://github.com/iseruuuuu/supabase_hackthon_app)
 
   
