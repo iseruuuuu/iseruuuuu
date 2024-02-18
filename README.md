@@ -1,35 +1,20 @@
-<h1 align="center">👋 Hello! I'm Ryutaro Iseki.</h1>
+<h1 align="center">👋 Hello! I'm Iseryu.</h1>
 
-```
+![スクリーンショット 2024-02-18 10 29 15（2）](https://github.com/iseruuuuu/iseruuuuu/assets/67954894/36435beb-46a8-4d83-bce5-61c21047a7d9)
 
-name: Ryutaro Iseki
-
-located_in: Kanagawaken JAPAN
-
-from: Kanagawa (JAPAN)
-
-education: ["Rissho University Graduate School of Psychology, Master's Program in Applied Psychology"]
-
-job: First-year master's student　and Flutter Developer in YUMEMI Inc
-
-currently_learning: ["Flutter"]
-
-
-```
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=iseruuuuu)](https://github.com/iseruuuuu/github-profile-trophy)
 
 ##  My Status
 
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iseruuuuu&theme=github)](https://github.com/iseruuuuu/github-readme-activity-graph)
- 
-
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iseruuuuu&row=1)](https://github.com/iseruuuuu/github-profile-trophy)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iseruuuuu&theme=dark&hide_border=true&currStreakNum=DD2727)](https://git.io/streak-stats)
+
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu&count_private=true&theme=dracula" />
+
+
+
+
  
   
 <h3 align="left">Languages and Tools:</h3>
