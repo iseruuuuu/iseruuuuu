@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,github,git,androidstudio,vscode,swift,kotlin,html,css,discord,figma,instagram,twitter,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,github,git,androidstudio,swift,figma,&perline=10)](https://skillicons.dev)
 
 
 
@@ -36,14 +36,15 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=disney_app)](https://github.com/iseruuuuu/disney_app)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=food_gram_app)](https://github.com/iseruuuuu/food_gram_app)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=supabase_hackthon_app)](https://github.com/iseruuuuu/supabase_hackthon_app)
+
+  ## Conference
+  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=FlutterKaigi&repo=2023)](https://github.com/FlutterKaigi/2023)
  
-  ## OSS
+  ## OSS  
   [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=yumemi-inc&repo=flutter-mobile-project-template)](https://github.com/yumemi-inc/flutter-mobile-project-template)
   
   ## Technical Book
   [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=yumemi-inc&repo=daigirin-tbf16)](https://github.com/yumemi-inc/daigirin-tbf16)
-
-  ## My Portfolio
 
 
   ## FoodGram
