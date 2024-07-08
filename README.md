@@ -12,11 +12,6 @@
 
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu&count_private=true&theme=dracula" />
 
-
-
-
- 
-  
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,github,git,androidstudio,vscode,swift,kotlin,html,css,discord,figma,instagram,twitter,&perline=10)](https://skillicons.dev)
@@ -44,6 +39,9 @@
  
   ## OSS
   [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=yumemi-inc&repo=flutter-mobile-project-template)](https://github.com/yumemi-inc/flutter-mobile-project-template)
+  
+  ## Technical Book
+  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=yumemi-inc&repo=daigirin-tbf16)](https://github.com/yumemi-inc/daigirin-tbf16)
 
   ## My Portfolio
 
