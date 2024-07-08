@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,github,git,androidstudio,swift,figma,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,github,git,androidstudio,swift,figma,&perline=10&theme=light)](https://skillicons.dev)
 
 
 
