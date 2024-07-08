@@ -8,7 +8,7 @@
 
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iseruuuuu&theme=github)](https://github.com/iseruuuuu/github-readme-activity-graph)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iseruuuuu&theme=dark&hide_border=true&currStreakNum=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iseruuuuu&theme=transparent&border_radius=8.8&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iseruuuuu&count_private=true&theme=dracula" />
 
