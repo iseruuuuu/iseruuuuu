@@ -35,9 +35,11 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=food_gram_app)](https://github.com/iseruuuuu/food_gram_app)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=supabase_hackthon_app)](https://github.com/iseruuuuu/supabase_hackthon_app)
 
-  ## Conference
+  ## Contributor
   [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=FlutterKaigi&repo=2023)](https://github.com/FlutterKaigi/2023)
- 
+  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=FlutterKaigi&repo=2024)](https://github.com/FlutterKaigi/2024)
+
+
   ## OSS  
   [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=yumemi-inc&repo=flutter-mobile-project-template)](https://github.com/yumemi-inc/flutter-mobile-project-template)
   
