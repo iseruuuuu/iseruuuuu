@@ -42,6 +42,8 @@
 
   ## OSS  
   [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=yumemi-inc&repo=flutter-mobile-project-template)](https://github.com/yumemi-inc/flutter-mobile-project-template)
+  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=yumemi-inc&repo=flutter-yumemi-lints)]([https://github.com/yumemi-inc/flutter-mobile-project-template](https://github.com/yumemi-inc/flutter-yumemi-lints))
+  
   
   ## Technical Book
   [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=yumemi-inc&repo=daigirin-tbf16)](https://github.com/yumemi-inc/daigirin-tbf16)
