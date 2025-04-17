@@ -16,6 +16,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,github,git,androidstudio,swift,figma,&perline=10&theme=light)](https://skillicons.dev)
 
+ ## LAPRAS
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
  ## Qiita
  [![Contributions](https://badgen.org/img/qiita/isekiryu/contributions?style=for-the-badge)](https://qiita.com/isekiryu)
  [![Followers](https://badgen.org/img/qiita/isekiryu/followers?style=for-the-badge)](https://qiita.com/isekiryu)
