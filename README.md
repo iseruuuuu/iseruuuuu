@@ -45,6 +45,7 @@ Last Updated on 6/24/2025, 2:07:33 AM</p>
   ## Contributor
   [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=FlutterKaigi&repo=2023)](https://github.com/FlutterKaigi/2023)
   [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=FlutterKaigi&repo=2024)](https://github.com/FlutterKaigi/2024)
+  [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=FlutterKaigi&repo=2025)](https://github.com/FlutterKaigi/2025)
 
 
   ## OSS  
