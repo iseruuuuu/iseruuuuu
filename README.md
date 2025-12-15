@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hello! I'm Iseryu.</h1>
 
-![スクリーンショット 2024-02-18 10 29 15（2）](https://github.com/iseruuuuu/iseruuuuu/assets/67954894/36435beb-46a8-4d83-bce5-61c21047a7d9)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=iseruuuuu)](https://github.com/iseruuuuu/github-profile-trophy)
 
 ##  My Status
