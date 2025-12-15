@@ -1,9 +1,6 @@
 <h1 align="center">👋 Hello! I'm Iseryu.</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iseruuuuu)](https://github.com/iseruuuuu/github-profile-trophy)
-
 ##  My Status
-
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iseruuuuu&theme=github-light)](https://github.com/iseruuuuu/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com?user=iseruuuuu&theme=transparent&border_radius=8.8&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
