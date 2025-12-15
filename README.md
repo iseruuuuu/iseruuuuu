@@ -50,6 +50,8 @@ Last Updated on 12/15/2025, 2:19:36 AM</p>
   [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=yumemi-inc&repo=daigirin-tbf16)](https://github.com/yumemi-inc/daigirin-tbf16)
 
 
+## Product
+ [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=yumemi-inc&repo=flutterkaigi-2025-booth-game)](https://github.com/yumemi-inc/flutterkaigi-2025-booth-game)
   
 
   
