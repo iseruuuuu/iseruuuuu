@@ -1,12 +1,16 @@
 <h1 align="center">👋 Hello! I'm Iseryu.</h1>
 
 ##  My Status
- 
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iseruuuuu&theme=github-light)](https://github.com/iseruuuuu/github-readme-activity-graph)
 
-[![Featured on Orynth](https://orynth.dev/api/badge/foodgram?theme=light&style=default)](https://orynth.dev/projects/foodgram)<a href="https://www.producthunt.com/products/foodgram-eat-x-snap-x-share-2?utm_source=badge-follow&utm_medium=badge&utm_source=badge-foodgram&#0045;eat&#0045;x&#0045;snap&#0045;x&#0045;share&#0045;2" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/follow.svg?product_id=1132843&theme=light" alt="FoodGram（Android） - Find&#0032;&#0038;&#0032;share&#0032;restaurants&#0032;by&#0032;real&#0032;meal&#0032;photos | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
+## About FoodGram
+[![Featured on Orynth](https://orynth.dev/api/badge/foodgram?theme=light&style=default)](https://orynth.dev/projects/foodgram)
+
+<a href="https://www.producthunt.com/products/foodgram-eat-x-snap-x-share-2/launches/foodgram-android?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-foodgram-android" target="_blank" rel="noopener noreferrer"><img alt="FoodGram（Android） - Find &amp; share restaurants by real meal photos | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1044617&amp;theme=light&amp;t=1767615962656"></a>
+
+## Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,github,git,androidstudio,swift,figma,&perline=10&theme=light)](https://skillicons.dev)
 
