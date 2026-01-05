@@ -6,9 +6,12 @@
 
 
 ## About FoodGram
-[![Featured on Orynth](https://orynth.dev/api/badge/foodgram?theme=light&style=default)](https://orynth.dev/projects/foodgram)
 
-<a href="https://www.producthunt.com/products/foodgram-eat-x-snap-x-share-2/launches/foodgram-android?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-foodgram-android" target="_blank" rel="noopener noreferrer"><img alt="FoodGram（Android） - Find &amp; share restaurants by real meal photos | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1044617&amp;theme=light&amp;t=1767615962656"></a>
+|  |  |  |  |
+|---|---|---|---|
+| <a href="https://apps.apple.com/gb/app/foodgram-food-photo-sharing/id6474065183" target="_blank" rel="noopener"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store" height="54"></a> | <a href="https://play.google.com/store/apps/details?id=com.food_gram_app.com.com.com" target="_blank" rel="noopener"><img src="https://play.google.com/intl/en/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="54"></a> | <a href="https://orynth.dev/projects/foodgram" target="_blank" rel="noopener"><img src="https://orynth.dev/api/badge/foodgram?theme=light&style=default" alt="Featured on Orynth" height="54"></a> | [![Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1044617&theme=light&t=1767615962656)](https://www.producthunt.com/products/foodgram-eat-x-snap-x-share-2/launches/foodgram-android?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-foodgram-android) |
+
+
 
 ## Languages and Tools
 
