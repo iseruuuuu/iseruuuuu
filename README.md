@@ -4,8 +4,6 @@
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iseruuuuu&theme=github-light)](https://github.com/iseruuuuu/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iseruuuuu&theme=transparent&border_radius=8.8&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-
 [![Featured on Orynth](https://orynth.dev/api/badge/foodgram?theme=light&style=default)](https://orynth.dev/projects/foodgram)<a href="https://www.producthunt.com/products/foodgram-eat-x-snap-x-share-2?utm_source=badge-follow&utm_medium=badge&utm_source=badge-foodgram&#0045;eat&#0045;x&#0045;snap&#0045;x&#0045;share&#0045;2" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/follow.svg?product_id=1132843&theme=light" alt="FoodGram（Android） - Find&#0032;&#0038;&#0032;share&#0032;restaurants&#0032;by&#0032;real&#0032;meal&#0032;photos | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
