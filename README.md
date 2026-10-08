@@ -21,7 +21,7 @@
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/Isekiryu" target="_blank" rel="noopener noreferrer"><img alt="IsekiryuのLAPRASでのスコアは次の通りです: エンジニアリング: 3.96 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.83 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.96&b=3.48&i=3.83&b1=%23000000&b2=%23e1e1e1&i1=%23ffffff&i2=%23080202&l=ja" width="400" ></a>  
-Last Updated on 10/7/2026, 5:34:05 AM</p>
+Last Updated on 10/8/2026, 5:42:24 AM</p>
 <!--END_SECTION:lapras-card-->
 
  ## Qiita
