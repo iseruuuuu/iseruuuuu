@@ -20,8 +20,8 @@
  ## LAPRAS
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/Isekiryu" target="_blank" rel="noopener noreferrer"><img alt="IsekiryuのLAPRASでのスコアは次の通りです: エンジニアリング: 3.96 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.83 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.96&b=3.48&i=3.83&b1=%23000000&b2=%23e1e1e1&i1=%23ffffff&i2=%23080202&l=ja" width="400" ></a>  
-Last Updated on 11/8/2026, 5:41:46 AM</p>
+<p ><a href="https://lapras.com/public/Isekiryu" target="_blank" rel="noopener noreferrer"><img alt="IsekiryuのLAPRASでのスコアは次の通りです: エンジニアリング: 3.96 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.82 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.96&b=3.48&i=3.82&b1=%23000000&b2=%23e1e1e1&i1=%23ffffff&i2=%23080202&l=ja" width="400" ></a>  
+Last Updated on 11/9/2026, 5:51:48 AM</p>
 <!--END_SECTION:lapras-card-->
 
  ## Qiita
